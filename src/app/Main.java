@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("I`m trying to understand this stuff!");
-
+        System.out.println("Version 1.0");
         int a = 13;
         int b = 5;
         int c = add(a, b);
