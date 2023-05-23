@@ -3,7 +3,7 @@ package app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello GitHub world! It`s feeling great!");
+        System.out.println("I`m trying to understand this stuff!");
 
         int a = 13;
         int b = 5;
